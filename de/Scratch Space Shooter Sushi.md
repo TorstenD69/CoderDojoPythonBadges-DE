@@ -23,7 +23,7 @@ gibt es in Scratch die Möglichkeit, einen Klon eines Sprite zu
 erstellen. Alle Klone führen die gleichen Befehle aus wie das erste
 Sprite. Mit dem folgenden Block wird ein Klon erstellt:
 
-![](media/image2.png){width="2.0833333333333335in" height="0.40625in"}
+![](media/block_create_clone.png)
 
 *Ein Beschreibung des Blocks findest Du hier:
 https://scratch-dach.info/wiki/Erzeuge\_Klon\_von\_()\_(Block)*
@@ -44,8 +44,8 @@ kannst Du Variablen verwenden. Variablen müssen vor der Verwendung
 angelegt werden. Dazu gibt es den Befehl „Neue Variable" im Bereich
 „Daten".
 
-![](media/image3.png){width="2.081383420822397in"
-height="2.1359175415573053in"}![](media/image4.png){width="2.40625in"
+![](media/variables.png){width="2.081383420822397in"![](/assets/work_with_variables.png)
+height="2.1359175415573053in"}![](media/block_change_score.png){width="2.40625in"
 height="2.1458333333333335in"}
 
 Wenn Du eine Variable angelegt hast gibt es verschiedene Blöcke, mit
