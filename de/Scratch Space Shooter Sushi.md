@@ -8,7 +8,7 @@ Du fliegst mit Deinem Raumschiff um unteren Bildschirmrand und kannst das Raumsc
 
 Tipp:
 
-Um das gleiche Sprite mehrfach auf dem Bildschirm anzeigen zu lassen gibt es in Scratch die Möglichkeit, einen Klon eines Sprite zu erstellen. Alle Klone führen die gleichen Befehle aus wie das erste _\*\*_Sprite. Mit dem folgenden Block wird ein Klon erstellt:
+Um das gleiche Sprite mehrfach auf dem Bildschirm anzeigen zu lassen gibt es in Scratch die Möglichkeit, einen Klon eines Sprite zu erstellen. Alle Klone führen die gleichen Befehle aus wie das erste \_\*\*\_Sprite. Mit dem folgenden Block wird ein Klon erstellt:
 
 ![](/assets/block_create_clone.png)
 
@@ -24,22 +24,13 @@ Um Punktestände oder andere Informationen in einem Programm zu speichern kannst
 
 ![](/assets/new_variable.png)![](/assets/work_with_variables.png)
 
-Wenn Du eine Variable angelegt hast gibt es verschiedene Blöcke, mit  
-denen Du die Werte in den Variablen verändern kannst. Für einen  
-Punktzähler kannst Du z. B. den Block  
-![](/assets/block_change_score.png) verwenden um bei einem Treffer den  
-Punktestand zu erhöhen. Mit dem gleichen Block kannst Du den Punktestand  
-auch verkleinern wenn ein Meteorit den unteren Bildschirmrand erreicht  
-hat.
+Wenn Du eine Variable angelegt hast gibt es verschiedene Blöcke, mit denen Du die Werte in den Variablen verändern kannst. Für einen Punktzähler kannst Du z. B. den Block ![](/assets/block_change_score.png)  verwenden um bei einem Treffer den Punktestand zu erhöhen. Mit dem gleichen Block kannst Du den Punktestand auch verkleinern wenn ein Meteorit den unteren Bildschirmrand erreicht hat.
 
-Du hast das Spiel gewonnen, wenn Du einen vor Dir vorher festgelegten  
-Punktestand erreicht hast. Fliegen so viele Meteoriten an Dir vorbei  
-dass der Punktestand 0 wird hast Du das Spiel verloren.
+Du hast das Spiel gewonnen, wenn Du einen vor Dir vorher festgelegten Punktestand erreicht hast. Fliegen so viele Meteoriten an Dir vorbei dass der Punktestand 0 wird hast Du das Spiel verloren.
 
 # Was lernst Du bei diesem Projekt:
 
-* Wie Du mit Hilfe von Klonen ein Sprite mehrfach am Bildschirm  
-  darstellen kannst
+* Wie Du mit Hilfe von Klonen ein Sprite mehrfach am Bildschirm darstellen kannst
 
 * Wie Du mit Hilfe von Variablen den Punktestand speichern kannst.
 
@@ -47,14 +38,11 @@ dass der Punktestand 0 wird hast Du das Spiel verloren.
 
 * Füge Töne hinzu, z. B. einen Ton beim Abschießen eines Laserstrahls
 
-* Die Meteoriten fliegen mit der Zeit mit einer höheren  
-  Geschwindigkeit durchs Weltall
+* Die Meteoriten fliegen mit der Zeit mit einer höheren Geschwindigkeit durchs Weltall
 
-* Mit der Zeit fliegen immer mehr Meteoriten gleichzeitig durchs  
-  Weltall
+* Mit der Zeit fliegen immer mehr Meteoriten gleichzeitig durchs Weltall
 
-* Der Hintergrund bewegt sich langsam von oben nach unten damit es so  
-  aussieht, als würde Dein Raumschiff durch das Weltall fliegen
+* Der Hintergrund bewegt sich langsam von oben nach unten damit es so aussieht, als würde Dein Raumschiff durch das Weltall fliegen
 
 
 
