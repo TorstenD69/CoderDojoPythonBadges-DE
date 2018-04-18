@@ -1,7 +1,3 @@
-In diesem Projekt programmierst Du mit Scratch ein Spiel, in dem Du die Erde vor herabfallenden Meteoriten retten musst. Dabei musst Du die Meteoriten mit Deinem Raumschiff abschießen, bevor diese den unteren Rand des Bildschirms berühren. So könnte ein mögliches Spielfeld aussehen:
-
-![](/assets/screenshot.png)
-
 # Wie soll das Spiel funktionieren?
 
 Du fliegst mit Deinem Raumschiff um unteren Bildschirmrand und kannst das Raumschiff mit Hilfe der Pfeiltasten von links nach rechts und rechts nach links steuern \(Du kannst gerne auch andere Tasten Deiner Wahl verwenden\). Aus dem Weltall \(oberer Bildschirmrand\) fliegen in unregelmäßigen Abständen und von unterschiedlichen Stellen Meteoriten in Richtung Erde \(unterer Bildschirmrand\).
@@ -27,12 +23,6 @@ Um Punktestände oder andere Informationen in einem Programm zu speichern kannst
 Wenn Du eine Variable angelegt hast gibt es verschiedene Blöcke, mit denen Du die Werte in den Variablen verändern kannst. Für einen Punktzähler kannst Du z. B. den Block ![](/assets/block_change_score.png)  verwenden um bei einem Treffer den Punktestand zu erhöhen. Mit dem gleichen Block kannst Du den Punktestand auch verkleinern wenn ein Meteorit den unteren Bildschirmrand erreicht hat.
 
 Du hast das Spiel gewonnen, wenn Du einen vor Dir vorher festgelegten Punktestand erreicht hast. Fliegen so viele Meteoriten an Dir vorbei dass der Punktestand 0 wird hast Du das Spiel verloren.
-
-# Was lernst Du bei diesem Projekt:
-
-* Wie Du mit Hilfe von Klonen ein Sprite mehrfach am Bildschirm darstellen kannst
-
-* Wie Du mit Hilfe von Variablen den Punktestand speichern kannst.
 
 # Mögliche Erweiterungen oder Varianten
 
