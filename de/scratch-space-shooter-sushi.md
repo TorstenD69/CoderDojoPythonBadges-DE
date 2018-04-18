@@ -6,7 +6,7 @@ Tipp:
 
 Um das gleiche Sprite mehrfach auf dem Bildschirm anzeigen zu lassen gibt es in Scratch die Möglichkeit, einen Klon eines Sprite zu erstellen. Alle Klone führen die gleichen Befehle aus wie das erste \_\*\*\_Sprite. Mit dem folgenden Block wird ein Klon erstellt:
 
-![](/assets/block_create_clone.png)
+![](../assets/block_create_clone.png)
 
 _Ein Beschreibung des Blocks findest Du hier: _[https://scratch-dach.info/wiki/Erzeuge\_Klon\_von\_\(\)\_\(Block](https://scratch-dach.info/wiki/Erzeuge_Klon_von_%28%29_%28Block)_\)_
 
@@ -18,9 +18,9 @@ Mit Hilfe der Leertaste \(Space\) kannst Du einzelne Laserstrahlen von Deinem Ra
 
 Um Punktestände oder andere Informationen in einem Programm zu speichern kannst Du Variablen verwenden. Variablen müssen vor der Verwendung angelegt werden. Dazu gibt es den Befehl „Neue Variable" im Bereich „Daten".
 
-![](/assets/new_variable.png)![](/assets/work_with_variables.png)
+![](../assets/new_variable.png)![](../assets/work_with_variables.png)
 
-Wenn Du eine Variable angelegt hast gibt es verschiedene Blöcke, mit denen Du die Werte in den Variablen verändern kannst. Für einen Punktzähler kannst Du z. B. den Block ![](/assets/block_change_score.png)  verwenden um bei einem Treffer den Punktestand zu erhöhen. Mit dem gleichen Block kannst Du den Punktestand auch verkleinern wenn ein Meteorit den unteren Bildschirmrand erreicht hat.
+Wenn Du eine Variable angelegt hast gibt es verschiedene Blöcke, mit denen Du die Werte in den Variablen verändern kannst. Für einen Punktzähler kannst Du z. B. den Block ![](../assets/block_change_score.png)  verwenden um bei einem Treffer den Punktestand zu erhöhen. Mit dem gleichen Block kannst Du den Punktestand auch verkleinern wenn ein Meteorit den unteren Bildschirmrand erreicht hat.
 
 Du hast das Spiel gewonnen, wenn Du einen vor Dir vorher festgelegten Punktestand erreicht hast. Fliegen so viele Meteoriten an Dir vorbei dass der Punktestand 0 wird hast Du das Spiel verloren.
 
