@@ -8,7 +8,7 @@ Damit das Spiel funktionieren kann muss entweder die aktuelle Online Version von
 
 # Was lernst Du bei diesem Projekt:
 
-* Wie Du mit Hilfe von Klonen ein Sprite mehrfach am Bildschirm darstellen kannst
+* Wie Du mit Hilfe von Klonen ein Sprite mehrfach am Bildschirm darstellen kannst. Das ist eine Änderung im Text.
 
 * Wie Du mit Hilfe von Variablen den Punktestand speichern kannst.
 
