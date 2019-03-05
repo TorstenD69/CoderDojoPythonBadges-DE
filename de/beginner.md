@@ -1,4 +1,4 @@
-# Anfänger
+# Python Anfänger
 
 ![Anfänger Badge](../assets/Python_beginner_badge.png)
 
