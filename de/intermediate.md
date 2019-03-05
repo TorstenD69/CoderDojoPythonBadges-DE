@@ -1,4 +1,4 @@
-# Fortgeschrittene
+# Python Fortgeschrittene
 
 ![Fortgeschrittenen Badge](../assets/Python_intermediate_badge.png)
 
