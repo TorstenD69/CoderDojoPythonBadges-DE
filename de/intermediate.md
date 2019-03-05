@@ -12,7 +12,7 @@ Der Besitzer dieses Abzeichens hat seine Kreativität und sein Wissen über die 
 
 Der Nachweis kann durch das selbstständige Schreiben eines oder mehrere Python Programme nachgewiesen werden in denen die o. g. Kernprinzipien enthalten sind.
 
-Um diesem Badge zu erhalten muss dem Ninja erst der Python Beginner Badge verliehen worden sein.
+Um diesen Badge zu erhalten muss dem Ninja erst der Python Beginner Badge verliehen worden sein.
 
 
 
