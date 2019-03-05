@@ -1,6 +1,6 @@
 # Fortgeschrittene
 
-![Fortgeschrittenen Badge](../assets/Python intermediate badge.png)
+![Fortgeschrittenen Badge](../assets/Python_intermediate_badge.png)
 
 Der Besitzer dieses Abzeichens hat seine Kreativität und sein Wissen über die Kenntnis der folgenden Kernprinzipen über Python bewiesen:
 

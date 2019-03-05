@@ -1,6 +1,6 @@
 # Anfänger
 
-![Anfänger Badge](../assets/Python beginner badge.png)
+![Anfänger Badge](../assets/Python_beginner_badge.png)
 
 Der Besitzer dieses Abzeichens hat seine Kreativität und sein Wissen über die Kenntnis der folgenden Kernprinzipen über Python bewiesen:
 
