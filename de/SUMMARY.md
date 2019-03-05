@@ -1,5 +1,9 @@
 # Summary
 
 * [Einführung](README.md)
-* [Beschreibung](scratch-space-shooter-sushi.md)
+* [Anfänger Badge](beginner.md)
+* [Fortgeschrittenen Badge](intermediate.md)
+
+
+
 

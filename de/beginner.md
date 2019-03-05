@@ -2,7 +2,7 @@
 
 ![Anfänger Badge](../assets/Python beginner badge.png)
 
-"Der Besitzer dieses Abzeichens hat seine Kreativität und sein Wissen die die Kenntniss der folgenden Kernprinzipen über Python bewiesen:
+"Der Besitzer dieses Abzeichens hat seine Kreativität und sein Wissen über die Kenntnis der folgenden Kernprinzipen über Python bewiesen:
 
 - Der Ninja weiß, wie man Python-Programme mit einem Texteditor und der Befehlszeile speichert und ausführt.
 - Der Ninja kann Text auf dem Bildschirm ausgeben
